@@ -60,7 +60,7 @@ const Classes = () => {
                   initial="hidden"
                   whileInView={"show"}
                   viewport={{ once: false, amount: 0.2 }}
-                  className="h3 text-accent"
+                  className="h3 text-[#D6FE50]"
                 >
                   {item.name}
                 </motion.h3>

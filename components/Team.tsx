@@ -110,7 +110,7 @@ const Team = () => {
                       <div key={index}>
                         <Link
                           href={social.href}
-                          className="hover:text-accent transition-all"
+                          className="hover:text-[#9fbb40] transition-all"
                         >
                           <social.icon className="text-lg" />
                         </Link>
